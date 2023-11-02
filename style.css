@@ -1,0 +1,87 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+
+section.hero {
+    padding: 200px 0;
+}
+
+section.hero .text {
+    font-family: 'Poppins', sans-serif;
+    font-size: 48px;
+    line-height: 73px;
+    color: black;
+}
+
+section.hero .img {
+    margin-top: -30px;
+}
+
+.buttons {
+    padding-top: 48px;
+    
+}
+
+.buttons .btn{
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    line-height: 24px;
+}
+
+.buttons .btn-primary:hover {
+    background-color: #4397d8 ;
+}
+
+.buttons .btn-outline-secondary {
+    font-family: 'Poppins', sans-serif;
+    border: 1px solid;
+    border-color: #6499E9;
+}
+
+.buttons .btn-outline-secondary:hover {
+    background-color: #4397d8  ;
+}
+
+section.content {
+    padding: 10px 0;
+} 
+
+.box-area {
+    width: 900px;
+}
+
+.row {
+    border-radius: 15px;
+}
+
+.header-text {
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 24px;
+}
+
+.form-group {
+    
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.form-select {
+    margin-top: 25px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+section.detail {
+    padding: 100px 0;
+}
+
+.card-header {
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+
